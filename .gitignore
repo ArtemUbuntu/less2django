@@ -4,3 +4,4 @@ env/Lib
 db.sqlite3
 main.py
 env/
+.env
